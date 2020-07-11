@@ -165,7 +165,7 @@ nav li:nth-of-type(5) {
   animation: slide-out 0.3s linear 0.1s both;
 }
 
-/* @keyframes slide-out {
+@keyframes slide-out {
   from {
     transform: translateX(0);
   }
@@ -173,7 +173,7 @@ nav li:nth-of-type(5) {
   to {
     transform: translateX(-100%);
   }
-} */
+}
 
 /* --- Menu Bars ------------------------------------ */
 
